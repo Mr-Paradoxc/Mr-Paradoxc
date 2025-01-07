@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi , it's Paradox 👋
 
 <!--
 **Mr-Paradoxc/Mr-Paradoxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" alt=" 404 ! " width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fcartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif&f=1&nofb=1&ipt=7b398eafbae50c8f2279328352f5b0c29a75e3c491567bbeb6ad48c6e04c13de&ipo=images">
