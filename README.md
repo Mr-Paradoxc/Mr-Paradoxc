@@ -1,4 +1,4 @@
-![logo](https://github.com/Mr-Paradoxc/Mr-Paradoxc/blob/main/54b6c068097599.5b50bca476b9b-1123606136.gif)
+![logo](https://github.com/Mr-Paradoxc/Mr-Paradoxc/blob/main/79731568097599.5b50bca477735-1120231283.jpg)
 
 ## Hi , it's Paradox 👋
 
