@@ -1,3 +1,5 @@
+![logo]()
+
 ## Hi , it's Paradox 👋
 
 <!--
